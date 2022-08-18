@@ -1,4 +1,4 @@
-# This is Demoversion my Text Games
+# This is demo version of my Text Game
 
 
 Перед началом работы необходимо установить все зависимости:
