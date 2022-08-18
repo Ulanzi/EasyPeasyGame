@@ -1,0 +1,52 @@
+.Photo {
+  max-height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+.BackGround {
+  background-color: black;
+}
+
+.item {
+  color:  #b02929;
+  text-decoration: none;
+}
+
+.item:hover {
+  color: #881515;
+  text-decoration: none;
+}
+
+.active {
+  color: red;
+  text-decoration: none;
+}
+
+.grid {
+  margin: 0 auto;
+  height: 950px;
+  display: grid;
+  background-color: black;
+}
+
+.TextStart {
+  text-align: center;
+  color: darkred;
+  margin-top: -150px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+

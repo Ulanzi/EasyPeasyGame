@@ -1,0 +1,99 @@
+.startPage {
+    margin: auto 170px;
+    border-bottom: 1px solid darkslategrey;
+}
+
+.item {
+    color: #181818;
+    text-decoration: none;
+    padding-left: 100px;
+}
+
+.item:hover {
+    color: #1e5b11;
+    text-decoration: none;
+    padding-left: 100px;
+}
+
+.active {
+    color: aquamarine;
+    text-decoration: none;
+}
+
+.grid {
+    margin: 0 auto;
+    width: 1200px;
+    display: grid;
+    grid-template-areas: "n c";
+    grid-template-columns: 6fr 6fr;
+}
+
+.buttonLeft01 {
+   /* padding-left: 560px;*/
+    margin-top: 12px;
+    grid-area: n;
+    text-align: center;
+}
+
+.buttonLeft02 {
+    margin-top: 12px;
+    /*margin-left: 870px;*/
+    grid-area: c;
+    text-align: center;
+}
+
+.buttonLeft04 {
+    margin-top: -70px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.buttonLeft03 {
+    margin-top: 12px;
+    text-align: center;
+}
+
+.backGround {
+    background-color: #ffffff;
+    height: 950px;
+}
+
+.backGroundDead {
+    background-color: #000000;
+    height: 950px;
+}
+
+.gamePhoto1 {
+padding-top: 30px;
+    max-height: 580px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gamePhoto2 {
+    padding-top: 10px;
+    max-height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gameTextPadding {
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+}
+
+.gameTextPadding2 {
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-bottom: 1px solid #666363;
+    padding-top: 10px;
+}
+
+
+
+
