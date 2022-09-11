@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/EasyPeasyGame/static/css/main.d41d3eab.css",
-    "main.js": "/EasyPeasyGame/static/js/main.fb4d4031.js",
+    "main.css": "/EasyPeasyGame/static/css/main.71c76080.css",
+    "main.js": "/EasyPeasyGame/static/js/main.3bc53700.js",
     "static/js/787.185dad18.chunk.js": "/EasyPeasyGame/static/js/787.185dad18.chunk.js",
     "index.html": "/EasyPeasyGame/index.html",
-    "main.d41d3eab.css.map": "/EasyPeasyGame/static/css/main.d41d3eab.css.map",
-    "main.fb4d4031.js.map": "/EasyPeasyGame/static/js/main.fb4d4031.js.map",
+    "main.71c76080.css.map": "/EasyPeasyGame/static/css/main.71c76080.css.map",
+    "main.3bc53700.js.map": "/EasyPeasyGame/static/js/main.3bc53700.js.map",
     "787.185dad18.chunk.js.map": "/EasyPeasyGame/static/js/787.185dad18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d41d3eab.css",
-    "static/js/main.fb4d4031.js"
+    "static/css/main.71c76080.css",
+    "static/js/main.3bc53700.js"
   ]
 }
